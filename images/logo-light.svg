@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 36" width="200" height="36" role="img" aria-label="Flowpage Plumbing">
+  <path d="M8 6h16v6H14v4h8v6h-8v8H8z" fill="#FFFFFF"/>
+  <circle cx="30" cy="24" r="6" fill="#5E72F6"/>
+  <text x="44" y="25" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Flowpage</text>
+</svg>
